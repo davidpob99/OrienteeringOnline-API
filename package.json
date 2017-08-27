@@ -1,0 +1,17 @@
+{
+    "name": "oonline",
+    "description": "oonline",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Microsoft",
+    "engines": {
+        "node": "=6.9.4"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "osmosis": "^1.1.4"
+    }
+}
